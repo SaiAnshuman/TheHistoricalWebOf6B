@@ -55,3 +55,20 @@ background-color:wheat;
     border-width: 10px;
   
   }
+
+  .copyright-footer{
+ 
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    font-size: 10px;
+    line-height: 2;
+    text-align: center;
+    color: black;
+    background-color: darkcyan;
+    border-style: outset;
+    border-color: cyan;
+    border-width: 5px;
+
+
+}
