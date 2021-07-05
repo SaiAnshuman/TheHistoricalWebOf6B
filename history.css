@@ -1,0 +1,57 @@
+body{
+   
+background-color:wheat;
+
+}  
+
+
+
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: darkorange;
+}
+
+#mark {
+    background-color:   firebrick;
+    font-family: sans-serif;
+    color : floralwhite;
+    width: 100%;
+    margin-bottom: 50;
+}
+
+#about {
+
+  border-style: outset;
+  border-color: yellow;
+  border-width: 25px;
+
+}
+
+.bg-danger {
+
+    border-style: outset;
+    border-color: red;
+    border-width: 10px;
+  
+  }
+
+  .bg-warning {
+
+    border-style: outset;
+    border-color: orange;
+    border-width: 10px;
+  
+  }
